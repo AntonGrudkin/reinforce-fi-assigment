@@ -1,0 +1,3 @@
+# Parquet readers and optional progress (enabled by the demos); core runtime is stdlib.
+pyarrow>=15
+tqdm>=4.66

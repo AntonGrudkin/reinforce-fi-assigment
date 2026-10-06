@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: market-sim
+Version: 0.1.0
+Summary: Minimal event-driven single-market backtesting simulator
+Requires-Python: >=3.10
+Provides-Extra: parquet
+Requires-Dist: pyarrow>=15; extra == "parquet"
+Provides-Extra: plotting
+Requires-Dist: matplotlib>=3.7; extra == "plotting"
+Provides-Extra: progress
+Requires-Dist: tqdm>=4.66; extra == "progress"

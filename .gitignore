@@ -1,0 +1,14 @@
+*.json
+*.csv
+misc/
+*__pycache__/
+.venv/
+.vscode/
+tests/
+backtests/
+data/
+*.ipynb_checkpoints
+*.pdf
+figures/
+.DS_Store
+examples/

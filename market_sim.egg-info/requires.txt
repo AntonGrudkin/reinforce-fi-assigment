@@ -1,0 +1,9 @@
+
+[parquet]
+pyarrow>=15
+
+[plotting]
+matplotlib>=3.7
+
+[progress]
+tqdm>=4.66
